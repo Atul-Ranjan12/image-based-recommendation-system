@@ -1,0 +1,31 @@
+# Standard libraries are included in Python's standard library, so they don't need to be listed here.
+
+# Data manipulation and analysis
+numpy
+pandas
+
+# Data visualization
+matplotlib
+tqdm
+
+# Image processing
+Pillow
+
+# Machine learning and deep learning
+tensorflow
+tensorflow_hub
+tensorflow_text
+tensorflow_datasets
+
+# Optional (for tensor manipulation and other utilities)
+einops
+
+# Kaggle library
+kaggle
+
+transformers
+ultralytics
+opencv-python
+
+scikit-learn
+
